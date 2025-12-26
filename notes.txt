@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature notes v2
+=======
+this bug fix
+>>>>>>> bug-fix
